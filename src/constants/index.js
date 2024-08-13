@@ -180,12 +180,12 @@ const experiences = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "PromptHub",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to discover and share prompt ideas to get the best performance out of their AI assistant   ",
     tags: [
       {
-        name: "react",
+        name: "react/nextjs",
         color: "blue-text-gradient",
       },
       {
@@ -193,12 +193,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "googlegeminiai",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://prompthub.trongdoan.com/",
   },
   {
     name: "Job IT",
