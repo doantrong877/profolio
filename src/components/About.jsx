@@ -47,11 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm Trong Doan, a versatile software developer based in Seattle, WA, 
+        with extensive experience in Java, Python, and JavaScript. 
+        My expertise spans various frameworks and libraries including React, Flask, and Spring Boot, 
+        as well as technologies such as Docker, Kubernetes, Terraform, Jenkins, Ansible and AWS. I have a strong background in creating 
+        scalable solutions and have successfully developed CI/CD pipelines, integrated cloud services, 
+        and built user-friendly web applications. Let's connect and turn your ideas into reality!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import thisistrong from "./thisistrong.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -6,6 +6,8 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import cloud from "./cloud.png";
+import devop from "./devop.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -30,8 +32,34 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import java from "./java.png";
+import python from "./python.png";
+import sql from "./sql.png";
+import springboot from "./springboot.png";
+import aws from "./aws.png"
+import flask from "./flask.png";
+import jenkins from "./jenkins.png";
+import kubernetes from "./kubernetes.png";
+import terraform from "./terraform.png"
+import ansible from "./ansible.png"
+import smoothstack from "./smoothstack.jpeg"
+import tulipnails from "./tulipnails.png"
 export {
-  logo,
+  tulipnails,
+  smoothstack,
+  java,
+  python,
+  sql,
+  springboot,
+  aws,
+  flask,
+  jenkins,
+  ansible,
+  kubernetes,
+  terraform,
+  devop,
+  cloud,
+  thisistrong,
   backend,
   creator,
   mobile,
