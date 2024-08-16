@@ -193,7 +193,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "googlegeminiai",
+        name: "googleAi",
         color: "pink-text-gradient",
       },
     ],
@@ -201,25 +201,25 @@ const projects = [
     source_code_link: "https://prompthub.trongdoan.com/",
   },
   {
-    name: "Job IT",
+    name: "MeetLoop",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that allows users to initiate and participate in video calls. It includes features for user authentication, record meeting, call scheduling, and real-time communication.",
     tags: [
       {
-        name: "react",
+        name: "react/nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "api(stream-clerk)",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "shadcn",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://meetloop.trongdoan.com/",
   },
   {
     name: "Trip Guide",
