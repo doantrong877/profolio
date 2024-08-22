@@ -203,7 +203,7 @@ const projects = [
   {
     name: "MeetLoop",
     description:
-      "Web application that allows users to initiate and participate in video calls. It includes features for user authentication, record meeting, call scheduling, and real-time communication.",
+      "Web application that allows users to participate in video calls. It includes features for user authentication, record meeting, call scheduling, and real-time communication.",
     tags: [
       {
         name: "react/nextjs",
@@ -222,25 +222,25 @@ const projects = [
     source_code_link: "https://meetloop.trongdoan.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Price Tracker",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web application that lets users track Amazon product prices and receive email alerts. Features include subscription management, price tracking, and a dashboard for monitoring selected items.",
     tags: [
       {
-        name: "nextjs",
+        name: "react/nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "brightdata",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "cron-job",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://amazontracker.trongdoan.com/",
   },
 ];
 
